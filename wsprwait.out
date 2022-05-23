@@ -1,0 +1,4 @@
+waitingwaitingwaitingwaitingwaitingwaitingwaitingwaitingwaitingExecuting wspr_decode Mon 09 May 2022 15:32:00 AEST
+./wsprcan/k9an-wsprd -p
+waitingwaitingwaitingwaitingwaitingwaitingwaitingExecuting wspr_decode Mon 09 May 2022 15:34:00 AEST
+./pa-wsprcan/k9an-wsprd -p
